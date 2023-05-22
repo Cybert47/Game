@@ -20,7 +20,18 @@ h1 {
   width: 40%;
   margin: auto;
 }
+.ok {
+  text-align: center;
+  margin-top: 20px;
+}
 
+.centered {
+  text-align: center;
+}
+
+.smaller-font {
+  font-size: 14px;
+}
 img{
   display: flex;
   width: 60%;
